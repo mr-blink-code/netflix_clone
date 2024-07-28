@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/mr-blink-code.github.io/netflix_clone/static/css/main.d02d150d.css",
+    "main.js": "/mr-blink-code.github.io/netflix_clone/static/js/main.42844cb2.js",
+    "static/js/453.b3b504c5.chunk.js": "/mr-blink-code.github.io/netflix_clone/static/js/453.b3b504c5.chunk.js",
+    "static/media/navbar_logo.png": "/mr-blink-code.github.io/netflix_clone/static/media/navbar_logo.c0b93f125de267b27533.png",
+    "static/media/info-svgrepo-com.svg": "/mr-blink-code.github.io/netflix_clone/static/media/info-svgrepo-com.781e82a33a611124f227f086b596819f.svg",
+    "index.html": "/mr-blink-code.github.io/netflix_clone/index.html",
+    "static/media/play-sharp-svgrepo-com.svg": "/mr-blink-code.github.io/netflix_clone/static/media/play-sharp-svgrepo-com.0fdb4031eac511d518b970ee5d67eab1.svg",
+    "main.d02d150d.css.map": "/mr-blink-code.github.io/netflix_clone/static/css/main.d02d150d.css.map",
+    "main.42844cb2.js.map": "/mr-blink-code.github.io/netflix_clone/static/js/main.42844cb2.js.map",
+    "453.b3b504c5.chunk.js.map": "/mr-blink-code.github.io/netflix_clone/static/js/453.b3b504c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d02d150d.css",
+    "static/js/main.42844cb2.js"
+  ]
+}
